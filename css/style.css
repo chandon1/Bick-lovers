@@ -1,0 +1,55 @@
+
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+.social ul li{
+    display: inline;
+}
+.social ul li :hover{
+    color: brown;
+}
+/* Futer section */
+
+   a{
+    text-decoration: none;
+   color: rgb(85, 4, 179);
+}
+a:hover{
+    font-size: 21px;
+    color: rgb(255, 21, 21);
+}
+.class-section{
+    color: #D4D4D4;
+}
+.quick-section{
+    list-style: none;
+}
+.input input {
+    border-radius: 10px !important;
+
+}
+.submit :hover{
+    background-color: red;
+   
+}
+
+.footer-area p{
+display: inline;
+}
+.lft{
+    float: right;
+}
+.quick-section ul li a{
+    display: block;
+border-bottom: 2px solid #D3D3D3;
+ color: black;
+ 
+}
+.text-saiz p{
+    font-size: 11px;
+}
+.about-section{
+    background-color: #F2F2F2;
+}
